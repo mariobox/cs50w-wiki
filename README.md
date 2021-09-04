@@ -7,5 +7,6 @@ It has, among other things, search functionality and the ability to generate a r
 
 Here is a video of the finished site at work:
 
-[! encyclopedia/static/wiki.jpg](https://youtu.be/WpccTnF1qcA)
+/home/mariobox/Pictures/Screenshots/wiki.jpg![wiki](https://user-images.githubusercontent.com/5903395/132100722-c6ad6106-200a-41a8-ae47-a91b8f78c6d9.jpg)
+
 
