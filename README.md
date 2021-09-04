@@ -7,5 +7,5 @@ It has, among other things, search functionality and the ability to generate a r
 
 Here is a video of the finished site at work:
 
-[encyclopedia/static/wiki.jpg](https://youtu.be/WpccTnF1qcA)
+[! encyclopedia/static/wiki.jpg](https://youtu.be/WpccTnF1qcA)
 
