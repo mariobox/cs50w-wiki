@@ -7,4 +7,3 @@ It has, among other things, search functionality and the ability to generate a r
 
 Here is a video of the finished site at work:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WpccTnF1qcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
