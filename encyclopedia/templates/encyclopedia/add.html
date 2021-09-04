@@ -1,0 +1,18 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Search Results
+{% endblock %}
+
+{% block body %}
+    <span style="color:red">{{ warning }}</span>
+    
+    <h1>Add Entry</h1>
+
+    <form action="{% url 'add' %}" method="POST">
+        {{ post_form.as_p }}
+        {% csrf_token %}
+        <input type="submit" value="Save">                    
+    </form>
+
+{% endblock %}
