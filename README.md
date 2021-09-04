@@ -6,7 +6,6 @@ It lets you create and edit wiki entries in Markdown and then generates and disp
 It has, among other things, search functionality and the ability to generate a random entry.
 
 Here is a video of the finished site at work:
-
-/home/mariobox/Pictures/Screenshots/wiki.jpg![wiki](https://user-images.githubusercontent.com/5903395/132100722-c6ad6106-200a-41a8-ae47-a91b8f78c6d9.jpg)
-
+[[wiki](https://user-images.githubusercontent.com/5903395/132100722-c6ad6106-200a-41a8-ae47-a91b8f78c6d9.jpg)
+](https://youtu.be/WpccTnF1qcA)
 
